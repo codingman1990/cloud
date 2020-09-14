@@ -1,0 +1,3 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+com.codingman.spring.cloud.metrics.export.sls.SlsMetricsExportAutoConfiguration
+com.codingman.spring.cloud.feign.FeignRequestObjectAutoConfiguration
